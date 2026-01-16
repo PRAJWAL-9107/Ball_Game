@@ -1,12 +1,23 @@
+<<<<<<< HEAD
 # Number Bubble Game 🎮
 
 A fun number-matching game where you click bubbles with the correct number before time runs out!
+=======
+# Number Ball Game 🎮
+
+A fun number-matching game where you click balls with the correct number before time runs out!
+>>>>>>> 903c1bee7a7dd7c977be55eee852f9d7c3756fbe
 
 ## 🎯 How to Play
 
 1. **Look at the Target Number** - Check the number in the "Hit" box at the top
+<<<<<<< HEAD
 2. **Find Matching Bubbles** - Look for bubbles showing the same number
 3. **Click the Bubbles** - Tap bubbles with the target number
+=======
+2. **Find Matching Bubbles** - Look for balls showing the same number
+3. **Click the Bubbles** - Tap balls with the target number
+>>>>>>> 903c1bee7a7dd7c977be55eee852f9d7c3756fbe
 4. **Score Points** - Get 10 points for each correct bubble
 5. **Beat the Clock** - You have 60 seconds to score as much as possible
 
@@ -19,8 +30,13 @@ A fun number-matching game where you click bubbles with the correct number befor
 
 ## 🎮 Controls
 
+<<<<<<< HEAD
 - **Mouse**: Click on bubbles
 - **Touch**: Tap bubbles on mobile devices
+=======
+- **Mouse**: Click on balls
+- **Touch**: Tap balls on mobile devices
+>>>>>>> 903c1bee7a7dd7c977be55eee852f9d7c3756fbe
 - **Restart**: Click "Play Again" after game over
 
 ## 💡 Tips
